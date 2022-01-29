@@ -3,4 +3,4 @@ Movie and Series Telegram Bot in Java using maven
 
 
 
-![gif](https://user-images.githubusercontent.com/89391453/151678768-a737c1d7-f4ce-44f8-bb38-3be33da3a04a.gif)
+![bandicam 2022-01-30 01-39-21-275 (1)](https://user-images.githubusercontent.com/89391453/151679339-499ed187-6eec-4153-ab46-80f862ccfcc8.gif)
